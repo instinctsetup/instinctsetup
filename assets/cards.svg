@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360"><defs><filter id="g"><feGaussianBlur stdDeviation="3"/></filter></defs><style>text{font-family:Segoe UI,Helvetica,Arial,sans-serif}.t{font-size:17px;font-weight:700;letter-spacing:2px}.d{font-size:14px;fill:#cbd5e1}</style><g transform="translate(10 10)"><rect width="320" height="160" rx="16" fill="#0f172a"/>
+<rect width="320" height="160" rx="16" fill="none" stroke="#22d3ee" stroke-width="3" filter="url(#g)" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect width="320" height="160" rx="16" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="40 20"><animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="40" r="7" fill="#22d3ee"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="54" y="46" class="t" fill="#22d3ee">RESEARCH</text>
+<text x="28" y="92" class="d">Searches the web, reads sources,</text><text x="28" y="116" class="d">compares options, cites links.</text></g><g transform="translate(340 10)"><rect width="320" height="160" rx="16" fill="#0f172a"/>
+<rect width="320" height="160" rx="16" fill="none" stroke="#a855f7" stroke-width="3" filter="url(#g)" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3s" begin="0.4s" repeatCount="indefinite"/></rect>
+<rect width="320" height="160" rx="16" fill="none" stroke="#a855f7" stroke-width="1.5" stroke-dasharray="40 20"><animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="40" r="7" fill="#a855f7"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="54" y="46" class="t" fill="#a855f7">BROWSER AUTOMATION</text>
+<text x="28" y="92" class="d">Navigates sites, fills forms,</text><text x="28" y="116" class="d">finishes multi-step flows.</text></g><g transform="translate(670 10)"><rect width="320" height="160" rx="16" fill="#0f172a"/>
+<rect width="320" height="160" rx="16" fill="none" stroke="#38bdf8" stroke-width="3" filter="url(#g)" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3s" begin="0.8s" repeatCount="indefinite"/></rect>
+<rect width="320" height="160" rx="16" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="40 20"><animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="40" r="7" fill="#38bdf8"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<text x="54" y="46" class="t" fill="#38bdf8">CODE AND REPOS</text>
+<text x="28" y="92" class="d">Edits files, removes clutter,</text><text x="28" y="116" class="d">pushes clean, tidy commits.</text></g><g transform="translate(10 185)"><rect width="320" height="160" rx="16" fill="#0f172a"/>
+<rect width="320" height="160" rx="16" fill="none" stroke="#c084fc" stroke-width="3" filter="url(#g)" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite"/></rect>
+<rect width="320" height="160" rx="16" fill="none" stroke="#c084fc" stroke-width="1.5" stroke-dasharray="40 20"><animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="40" r="7" fill="#c084fc"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+<text x="54" y="46" class="t" fill="#c084fc">WRITING</text>
+<text x="28" y="92" class="d">Drafts emails, documents,</text><text x="28" y="116" class="d">reports and summaries.</text></g><g transform="translate(340 185)"><rect width="320" height="160" rx="16" fill="#0f172a"/>
+<rect width="320" height="160" rx="16" fill="none" stroke="#2dd4bf" stroke-width="3" filter="url(#g)" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3s" begin="1.6s" repeatCount="indefinite"/></rect>
+<rect width="320" height="160" rx="16" fill="none" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="40 20"><animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="40" r="7" fill="#2dd4bf"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<text x="54" y="46" class="t" fill="#2dd4bf">SCHEDULING</text>
+<text x="28" y="92" class="d">Calendar changes, deadlines,</text><text x="28" y="116" class="d">and timed reminders.</text></g><g transform="translate(670 185)"><rect width="320" height="160" rx="16" fill="#0f172a"/>
+<rect width="320" height="160" rx="16" fill="none" stroke="#818cf8" stroke-width="3" filter="url(#g)" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3s" begin="2.0s" repeatCount="indefinite"/></rect>
+<rect width="320" height="160" rx="16" fill="none" stroke="#818cf8" stroke-width="1.5" stroke-dasharray="40 20"><animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="40" r="7" fill="#818cf8"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="2.0s" repeatCount="indefinite"/></circle>
+<text x="54" y="46" class="t" fill="#818cf8">DATA AND REPORTING</text>
+<text x="28" y="92" class="d">Notes into tidy docs and sheets,</text><text x="28" y="116" class="d">plus regular status updates.</text></g></svg>
