@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <clipPath id="c"><rect width="1000" height="40"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)" fill="none" stroke-linecap="round">
+    <path d="M0 20 Q 25 6 50 20 T 100 20 T 150 20 T 200 20 T 250 20 T 300 20 T 350 20 T 400 20 T 450 20 T 500 20 T 550 20 T 600 20 T 650 20 T 700 20 T 750 20 T 800 20 T 850 20 T 900 20 T 950 20 T 1000 20 T 1050 20 T 1100 20 T 1150 20 T 1200 20" stroke="url(#g)" stroke-width="2.5" opacity="0.9">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-100 0" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 20 Q 25 34 50 20 T 100 20 T 150 20 T 200 20 T 250 20 T 300 20 T 350 20 T 400 20 T 450 20 T 500 20 T 550 20 T 600 20 T 650 20 T 700 20 T 750 20 T 800 20 T 850 20 T 900 20 T 950 20 T 1000 20 T 1050 20 T 1100 20 T 1150 20 T 1200 20" stroke="#22d3ee" stroke-width="1.2" opacity="0.4">
+      <animateTransform attributeName="transform" type="translate" values="-100 0;0 0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
