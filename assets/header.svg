@@ -37,7 +37,7 @@
     </text>
     <rect x="420" y="205" width="160" height="3" rx="1.5" fill="#67e8f9"><animate attributeName="width" values="0;160;160" keyTimes="0;0.5;1" dur="2.4s" fill="freeze"/><animate attributeName="x" values="500;420;420" keyTimes="0;0.5;1" dur="2.4s" fill="freeze"/></rect>
     <g fill="none" stroke-width="2">
-      <path d="M0 255 Q 125 225 250 255 T 500 255 T 750 255 T 1000 255 V280 H0Z" fill="#0b0f1a" opacity="0.5"><animateTransform attributeName="transform" type="translate" values="0 0;-500 0" dur="9s" repeatCount="indefinite"/></path>
+      <path d="M0 255 Q 125 225 250 255 T 500 255 T 750 255 T 1000 255 T 1250 255 T 1500 255 V280 H0Z" fill="#0b0f1a" opacity="0.5"><animateTransform attributeName="transform" type="translate" values="0 0;-500 0" dur="9s" repeatCount="indefinite"/></path>
     </g>
   </g>
 </svg>
