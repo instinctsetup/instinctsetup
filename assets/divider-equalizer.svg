@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44">
+  <defs>
+    <linearGradient id="eq" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#eq)" opacity="0.85">
+    <rect x="20" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="12;28;8;20;12" dur="1.6s" begin="0s" repeatCount="indefinite"/><animate attributeName="y" values="16;0;20;6;16" dur="1.6s" begin="0s" repeatCount="indefinite"/></rect>
+    <rect x="45" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="18;6;26;10;18" dur="1.4s" begin="0.2s" repeatCount="indefinite"/><animate attributeName="y" values="10;22;2;18;10" dur="1.4s" begin="0.2s" repeatCount="indefinite"/></rect>
+    <rect x="70" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="8;24;14;28;8" dur="1.8s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="y" values="20;4;14;0;20" dur="1.8s" begin="0.4s" repeatCount="indefinite"/></rect>
+    <rect x="95" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="20;10;26;6;20" dur="1.5s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="y" values="6;18;2;22;6" dur="1.5s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <rect x="120" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="10;26;8;18;10" dur="1.7s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="18;2;20;10;18" dur="1.7s" begin="0.8s" repeatCount="indefinite"/></rect>
+    <rect x="145" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="24;8;20;12;24" dur="1.3s" begin="1s" repeatCount="indefinite"/><animate attributeName="y" values="4;20;8;16;4" dur="1.3s" begin="1s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="190" y="20.5" width="620" height="2" fill="url(#eq)" opacity="0.5"/>
+  <g fill="url(#eq)" opacity="0.85">
+    <rect x="830" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="16;26;10;22;16" dur="1.5s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="y" values="12;2;18;6;12" dur="1.5s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <rect x="855" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="10;22;6;26;10" dur="1.7s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="y" values="18;6;22;2;18" dur="1.7s" begin="0.5s" repeatCount="indefinite"/></rect>
+    <rect x="880" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="22;8;24;12;22" dur="1.4s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="y" values="6;20;4;16;6" dur="1.4s" begin="0.7s" repeatCount="indefinite"/></rect>
+    <rect x="905" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="8;24;14;20;8" dur="1.8s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="20;4;14;8;20" dur="1.8s" begin="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="930" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="18;10;26;8;18" dur="1.6s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="10;18;2;20;10" dur="1.6s" begin="1.1s" repeatCount="indefinite"/></rect>
+    <rect x="955" y="16" width="8" height="12" rx="2"><animate attributeName="height" values="12;26;10;22;12" dur="1.45s" begin="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="16;2;18;6;16" dur="1.45s" begin="1.3s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
